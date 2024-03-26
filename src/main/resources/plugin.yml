@@ -1,0 +1,4 @@
+name: KillerStick
+version: '${project.version}'
+main: me.nakirium.killerstick.KillerStick
+api-version: '1.20'
